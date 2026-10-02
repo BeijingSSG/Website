@@ -1,0 +1,13 @@
+{
+  "name": "SuperSonicCenter",
+  "short_name": "SuperSonicCenter",
+  "description": "Your all-in-one VEX Override tactical hub. Analyze game strategies, plan plays on an interactive field, manage your team roster, and get expert robot build suggestions.",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/logo.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
